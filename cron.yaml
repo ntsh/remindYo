@@ -1,0 +1,4 @@
+cron:
+- description: Send Reminder Yo
+  url: /sendyo
+  schedule: every 1 minutes
